@@ -6,7 +6,7 @@ description: Changelogs of the AniCards project
 
 ## 2/15/2024
 
-Initial Release
+Initial Website Release
 
 ## 2/16/2024
 
