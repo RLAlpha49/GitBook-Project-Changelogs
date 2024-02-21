@@ -13,7 +13,7 @@ description: Current and planned features of AniCards
 ### Planned Features
 
 * Supports multiple themes for the stat cards.
-* Generates SVG stat badges that display the user's statistics.
+* Generates SVG stat badges for milestones
   * Customizable with user input images
 * Generate SVG birthday badges/banners
   * Customizable with user input images
