@@ -4,8 +4,6 @@ description: Installing application from GitHub
 
 # Installation
 
-### Installation
-
 First, clone the repository:
 
 ```
