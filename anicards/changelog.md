@@ -53,3 +53,9 @@ Initial Website Release
 * [Update sitemap.xml with daily changefreq](https://github.com/RLAlpha49/AniCards/commit/d737c8482cc7aeb1c5f2858b945695f8c6b94f2c)
 * [Update queries.py to limit the number of genres, tags, voice actors, studios, and staff in the user anime/manga social stats query](https://github.com/RLAlpha49/AniCards/commit/c8c434f300f17733b7cd888c161d76fb719c9d7e)
 * [Reduce log counts to 10 each](https://github.com/RLAlpha49/AniCards/commit/a2be864b252719b3c3f20c3bbe56aa965312d9d8)
+
+## 2/21/2024
+
+#### Bug Fixes
+
+* [Fix element layering on user pages](https://github.com/RLAlpha49/AniCards/commit/b16614e3702b2ee10159ba60a6c97fe88876ca48)
