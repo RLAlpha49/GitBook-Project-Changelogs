@@ -9,4 +9,4 @@
     * [Running the Application](anicards/anicards/getting-started/running-the-application.md)
     * [Deployment](anicards/anicards/getting-started/deployment.md)
   * [Project Details](anicards/anicards/project-details.md)
-* [Changelog](anicards/changelog.md)
+  * [Changelog](anicards/anicards/changelog.md)
