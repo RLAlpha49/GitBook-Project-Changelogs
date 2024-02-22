@@ -59,3 +59,10 @@ Initial Website Release
 #### Bug Fixes
 
 * [Fix element layering on user pages](https://github.com/RLAlpha49/AniCards/commit/b16614e3702b2ee10159ba60a6c97fe88876ca48)
+
+## 2/22/2024
+
+#### Improvements
+
+* [Removed changelog route](https://github.com/RLAlpha49/AniCards/commit/1ccef4fc844b9eff6fa118adb1b25f5fbd0faf3f)
+* [**Updated server connection limit to 300**](https://github.com/RLAlpha49/AniCards/commit/614eec27137411c66429fbc933913432fde16225)
