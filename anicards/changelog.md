@@ -4,6 +4,12 @@ description: Changelogs of the AniCards project
 
 # Changelog
 
+## 2/24/2024
+
+#### Bug Fixes
+
+* [Fix incorrect apostrophes for types on statcards](https://github.com/RLAlpha49/AniCards/commit/a0f5a1d7dd377d694cf1c068f5460b62fd791839)
+
 ## 2/22/2024
 
 #### Improvements
