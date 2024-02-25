@@ -4,6 +4,12 @@ description: Changelogs of the AniCards project
 
 # Changelog
 
+## 2/25/2024
+
+#### Improvements
+
+* [User pages scale more appropriately according to screen size](https://github.com/RLAlpha49/AniCards/commit/992117a177d3263debdad32ad9ae3ff6bd64f899)
+
 ## 2/24/2024
 
 #### Bug Fixes
