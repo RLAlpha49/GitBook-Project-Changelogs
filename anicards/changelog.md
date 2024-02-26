@@ -9,6 +9,11 @@ description: Changelogs of the AniCards project
 #### Improvements
 
 * [Completely scaled rest of user page for smaller viewports](https://github.com/RLAlpha49/AniCards/commit/5a3dd0a200e765dcde9091b3681ed2f06909d60e)
+* [Completely scaled home page for smaller viewports](https://github.com/RLAlpha49/AniCards/commit/4aa1e36287b12850b2538617202588fd5142120d)
+
+#### Bug Fixes
+
+* [Fixed header not always following scroll on users page](https://github.com/RLAlpha49/AniCards/commit/4aa1e36287b12850b2538617202588fd5142120d)
 
 ## 2/25/2024
 
