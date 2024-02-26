@@ -9,6 +9,7 @@ description: Changelogs of the AniCards project
 #### Improvements
 
 * [User pages scale more appropriately according to screen size](https://github.com/RLAlpha49/AniCards/commit/992117a177d3263debdad32ad9ae3ff6bd64f899)
+* [Properly scale sidebar on user page for lower viewports](https://github.com/RLAlpha49/AniCards/commit/51a394ce9c9fbbe9865b3d305b203eeec748c3e7)
 
 ## 2/24/2024
 
