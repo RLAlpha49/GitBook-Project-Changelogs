@@ -4,6 +4,13 @@ description: Changelogs of the AniCards project
 
 # Changelog
 
+## 2/27/2024
+
+#### Improvements
+
+* [Properly scale FAQ & Error pages.](https://github.com/RLAlpha49/AniCards/commit/283adf7b7b08e317cc427d0684723f957eea8468)
+* [StatCards page is now completely scaled for smaller viewports](https://github.com/RLAlpha49/AniCards/commit/6eaf2a2ab3e8182b9aa7e00592d672588dae570e)
+
 ## 2/26/2024
 
 #### Improvements
