@@ -4,6 +4,12 @@ description: Changelogs of the AniCards project
 
 # Changelog
 
+## 2/28/2024
+
+#### Improvements
+
+* [Adjust text scaling factor](https://github.com/RLAlpha49/AniCards/commit/5ea09884866c7b412511432a9ab16dccb1e71144)
+
 ## 2/27/2024
 
 #### Improvements
