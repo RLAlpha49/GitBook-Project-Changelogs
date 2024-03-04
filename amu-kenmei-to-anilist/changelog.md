@@ -4,6 +4,16 @@ description: Changelogs of the AMU project
 
 # Changelog
 
+## [3/04/2024](https://github.com/RLAlpha49/Anilist-Manga-Updater/releases/tag/v2.50)
+
+#### Improvements
+
+* Refactored & Formatted
+* Extra error handling for specific exceptions
+* More retry statements for AniList server errors
+* Improved logic of updating manga
+  * Significantly increased speed
+
 ## [12/05/2023](https://github.com/RLAlpha49/Anilist-Manga-Updater/releases/tag/v2.45)
 
 #### Improvements
