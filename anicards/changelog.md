@@ -4,6 +4,18 @@ description: Changelogs of the AniCards project
 
 # Changelog
 
+## 3/2/2024
+
+#### Improvements
+
+* [Use a HTML template to reduce html code](https://github.com/RLAlpha49/AniCards/commit/155fd478b5cf313fdacd395b6e84fd2a6662152d)
+
+## 3/1/2024
+
+#### Improvements
+
+* [Made common.css to reduce duplicate css](https://github.com/RLAlpha49/AniCards/commit/73200c35ede600628819b155a3739a16c4de6f13)
+
 ## 2/28/2024
 
 #### Improvements

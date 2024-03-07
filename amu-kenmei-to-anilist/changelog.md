@@ -4,6 +4,12 @@ description: Changelogs of the AMU project
 
 # Changelog
 
+## [3/05/2024](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/fcd435c77322688ced59878d64cbd86825d6f9f9)
+
+#### New Features
+
+* Added logging in terminal serving as a debug version
+
 ## [3/04/2024](https://github.com/RLAlpha49/Anilist-Manga-Updater/releases/tag/v2.50)
 
 #### Improvements
