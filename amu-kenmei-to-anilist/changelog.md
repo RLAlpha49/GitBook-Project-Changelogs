@@ -4,6 +4,24 @@ description: Changelogs of the AMU project
 
 # Changelog
 
+## 3/07/2024
+
+#### New Features
+
+* [Output logs to files](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/19153b35a4a6d21be7cdaba772b753a01b95a4f1)
+
+#### Improvements
+
+* [Updated Logging to include levels. ](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/8500c05c2010aab6a1755e38925e9641d7334f88)
+* [Limited manga amount returned from search results](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/8500c05c2010aab6a1755e38925e9641d7334f88)
+* [Refactor get\_manga\_id into smaller functions](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/3aff8077f1934c7657588f88a27d56857b5cb702)
+
+## 3/06/2024
+
+#### Bug Fixes
+
+* [Fix frame.f\_back possibly returning none](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/1848ef351ec12cf9f0b1e9f7dd03d9f5956e440c)
+
 ## [3/05/2024](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/fcd435c77322688ced59878d64cbd86825d6f9f9)
 
 #### New Features
