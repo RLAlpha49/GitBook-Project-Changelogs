@@ -4,6 +4,25 @@ description: Changelogs of the AMU project
 
 # Changelog
 
+## [3/18/2024](https://github.com/RLAlpha49/Anilist-Manga-Updater/releases/tag/v2.6)
+
+The program is significantly faster if you have run through it once with your whole list. Using the cache it is around 100 times faster to get manga IDs. Updating manga is around 20 times faster if there are not a lot of requests to make.
+
+For myself, I ran the program initially for my around 900 manga for 1:00 to 1:30 hours which populated the cache. The next time I ran, it took around 30-60 seconds.
+
+#### New Features
+
+* [Added Title & Format caching](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/0147eaf31ee0be0e2165c1181131e3a63c7a2e7b)
+
+#### Improvements
+
+* [Updating manga does not delay if a request is not sent](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/aa8ace5ab39a1c2703c457a9f3240d57a5c5f847)
+
+#### Bug Fixes
+
+* [Fixed Completed manga getting set to Paused](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/ef60ead335ae24dd5a36f67c1559911a0cf58ef0)
+* [Fix progress bar going past 50% when getting manga id's](https://github.com/RLAlpha49/Anilist-Manga-Updater/commit/3f66b38d4fc3518578def90accfe28f5da6827c0)
+
 ## 3/07/2024
 
 #### New Features
